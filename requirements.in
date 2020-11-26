@@ -1,0 +1,4 @@
+-e file:.#egg=example
+mypy
+pip-tools
+pre-commit
